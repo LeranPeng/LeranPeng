@@ -22,6 +22,7 @@
 > Applied TARGET model for micro-scale heat prediction in Australian cities using geospatial data from Nearmap & DPIRD.
 
 - Python + Netatmo API + QA/QC routines on multi-year satellite layers.
+- This project is not available due to NDA.
 
 ---
 

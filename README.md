@@ -43,19 +43,13 @@
 > A custom translator for a toy ML language to optimized C11 code.
 
 - Lexical analysis, syntax parsing, semantic checking, code generation.
-
----
-
-### 📊 [CSV Data Analytics Engine](https://github.com/LeranPeng/2023_Python_Project)
-> Python tool for analyzing company data with t-tests, Minkowski distance, and SD.
-
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeranPeng&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeranPeng&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeranPeng&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---

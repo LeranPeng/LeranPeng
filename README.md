@@ -10,7 +10,7 @@
 ## 🚀 Tech Stack
 
 - **Languages**: Python, C, Java, JavaScript, R, SQL, HTML/CSS
-- **Frameworks**: Flask, Bootstrap, SQLite, SQLAlchemy
+- **Frameworks**: Flask, SpringBoot, Bootstrap, SQLite, SQLAlchemy
 - **Tools**: Git, Jupyter, LaTeX, RStudio, ArcGIS Pro, Google Earth Engine
 - **Concepts**: Data Structures, Operating Systems, Compiler Design, Geospatial Modeling
 

@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <b>Passionate about software engineering, Mathematics and statistics, and interdisciplinary with Geographical Spatial science.</b><br>
+  <b>Passionate about software engineering, mathematics, statistics, and their interdisciplinary applications in geospatial science.</b><br>
   <b>Enjoy building, learning, and solving real-world problems with code.</b>
 </p>
 
@@ -21,8 +21,8 @@
 ### 🔥 [Heat Modeling with TARGET](https://www.grants.gov.au/Ga/Show/461001c5-5624-45be-ace2-881aa8c0cc51)
 > Applied TARGET model for micro-scale heat prediction in Australian cities using geospatial data from Nearmap & DPIRD.
 
-- Python + Netatmo API + QA/QC routines on multi-year satellite layers.
-- This project is not available due to NDA.
+- Python • Netatmo API • QA/QC routines on multi-year satellite layers
+- *Note: Source code is currently unavailable due to an NDA.*
 
 ---
 
@@ -43,14 +43,15 @@
 ### ⚙️ [ML → C Translator (Compiler Design)](https://github.com/LeranPeng/CITS2002_PROJECT1)
 > A custom translator for a toy ML language to optimized C11 code.
 
-- Lexical analysis, syntax parsing, semantic checking, code generation.
+- Lexical analysis • Syntax parsing • Semantic checking • Code generation
+
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeranPeng&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeranPeng&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeranPeng&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeranPeng&layout=compact&theme=radical" width="40%" alt="Top Languages" />
 </p>
 
 ---
@@ -58,5 +59,5 @@
 ## 👁️‍🗨️ Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeranPeng&color=blue&style=flat-square" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=LeranPeng&color=blue&style=flat-square" alt="Visitor Badge" />
 </p>
